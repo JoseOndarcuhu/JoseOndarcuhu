@@ -5,6 +5,8 @@
 ### 🚀 About Me
 - 🎓 **Studies:** Electronics Engineering
 - ⚡ **Passion:** Technology, Product & Industrial Design, Electronics & Technology History, Robots
+- 📡 **Current Project:** Working on the onboard electronics for a sloshing experiment as part of a scale rocket payload.
+- 🔬 **Laboratory Collaboration:** Active collaborator in a laboratory at the School of Engineering, National University of La Plata (UNLP).
 <br/>
 
 
